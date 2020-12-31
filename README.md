@@ -1,5 +1,5 @@
 # CN-project
-Computer network project
+Computer network project on distributed systems
 
 
 ## steps to follow
