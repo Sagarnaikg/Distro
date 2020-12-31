@@ -4,7 +4,7 @@ Computer network project
 
 steps to follow
 
-1 first start the central server by giving "cs"
+1 first start the central server by giving "cs" <br/>
 2.then select the no of workers server ex- 2
 3.opne a new two terminals and give value as "ws" to select worker server
 4.at final open a new terminal and give "cl" to seclect as client
