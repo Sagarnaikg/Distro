@@ -1,0 +1,6 @@
+prompt_toolkit==1.0.14
+pyfiglet==0.8.post1
+halo==0.0.31
+regex==2020.11.13
+PyInquirer==1.0.3
+termcolor==1.1.0
