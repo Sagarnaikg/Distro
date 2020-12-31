@@ -12,7 +12,7 @@ Computer network project on distributed systems
 6.At last type "close" and enter in the client terminal and it will stop all the servers<br/>
   </ol>
  
-<ul style="width:90%;margin-top:40px" >
+<ul style="width:90%;margin-top:40" >
   <img src="https://github.com/Sagarnaikg/Distro/blob/master/s1.png" style="width:100%;margin-top:35px" alt="screen shot" />
   <img src="https://github.com/Sagarnaikg/Distro/blob/master/s2.png" style="width:100%;margin-top:35px" alt="screen shot" />
   <img src="https://github.com/Sagarnaikg/Distro/blob/master/s3.png" style="width:100%;margin-top:35px" alt="screen shot" />
