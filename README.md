@@ -1,4 +1,4 @@
-# CN-project
+# DISTRO
 Computer network project on distributed systems
 
 
@@ -11,3 +11,5 @@ Computer network project on distributed systems
 5.now enter sum of <value> ex- sum of 100 and hit enter and i will compute and send the result<br/>
 6.At last type "close" and enter in the client terminal and it will stop all the servers<br/>
   </ol>
+  
+
